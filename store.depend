@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701638105 source:d:\anas\iti_44\c\project\store\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1701717893 source:d:\anas\iti_44\c\anas_ashraf\store\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
